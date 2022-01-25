@@ -2,7 +2,7 @@ Hi 👋
 
 I'm `Baha` and here are some details about me.
 
-- 💻 Software Engineer (backend focused)
+- 💻 Software Engineer
 - 🚚 Working at Mover Systems
 - 🧰 I like gadgets
 - 📰 Always learning
